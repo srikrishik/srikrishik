@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Srikrishik 👋
 
-<!--
-**srikrishik/srikrishik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Python Developer | Backend Engineering | AI | Open Source
 
-Here are some ideas to get you started:
+I'm passionate about building useful software, exploring AI, and contributing to open-source projects. I'm currently strengthening my backend development skills and learning by building real-world projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm Working On
+- 📚 Building an AI Study Companion
+- 🐍 Improving my Python and backend engineering skills
+- 🌱 Exploring AI-powered applications and open source
+
+### 🛠️ Technologies & Tools
+- **Languages:** Python, SQL
+- **Currently Exploring:** Backend Development, APIs, AI Integration
+- **Tools:** Git, GitHub
+
+### 🎯 Goals
+- Build practical software projects
+- Contribute to open-source communities
+- Grow as a backend engineer and AI developer
+
+### 🤝 Let's Connect
+I'm open to learning, collaboration, and contributing to interesting projects.
+
+⭐ Thanks for visiting my profile!
